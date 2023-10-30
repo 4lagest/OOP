@@ -1,0 +1,16 @@
+D:\УЕБА\Курс 2\ООП\Лабораторная №2\Lab2_Zakshevskij_UTS-22\bin\Debug\Lab2_Zakshevskij_UTS-22.exe.config
+D:\УЕБА\Курс 2\ООП\Лабораторная №2\Lab2_Zakshevskij_UTS-22\bin\Debug\Lab2_Zakshevskij_UTS-22.exe
+D:\УЕБА\Курс 2\ООП\Лабораторная №2\Lab2_Zakshevskij_UTS-22\bin\Debug\Lab2_Zakshevskij_UTS-22.pdb
+D:\УЕБА\Курс 2\ООП\Лабораторная №2\Lab2_Zakshevskij_UTS-22\obj\Debug\Lab2_Zakshevskij_UTS-22.csproj.AssemblyReference.cache
+D:\УЕБА\Курс 2\ООП\Лабораторная №2\Lab2_Zakshevskij_UTS-22\obj\Debug\Lab2_Zakshevskij_UTS-22.csproj.SuggestedBindingRedirects.cache
+D:\УЕБА\Курс 2\ООП\Лабораторная №2\Lab2_Zakshevskij_UTS-22\obj\Debug\MainWindow.g.cs
+D:\УЕБА\Курс 2\ООП\Лабораторная №2\Lab2_Zakshevskij_UTS-22\obj\Debug\App.g.cs
+D:\УЕБА\Курс 2\ООП\Лабораторная №2\Lab2_Zakshevskij_UTS-22\obj\Debug\Lab2_Zakshevskij_UTS-22_MarkupCompile.cache
+D:\УЕБА\Курс 2\ООП\Лабораторная №2\Lab2_Zakshevskij_UTS-22\obj\Debug\Lab2_Zakshevskij_UTS-22_MarkupCompile.lref
+D:\УЕБА\Курс 2\ООП\Лабораторная №2\Lab2_Zakshevskij_UTS-22\obj\Debug\MainWindow.baml
+D:\УЕБА\Курс 2\ООП\Лабораторная №2\Lab2_Zakshevskij_UTS-22\obj\Debug\Lab2_Zakshevskij_UTS-22.g.resources
+D:\УЕБА\Курс 2\ООП\Лабораторная №2\Lab2_Zakshevskij_UTS-22\obj\Debug\Lab2_Zakshevskij_UTS_22.Properties.Resources.resources
+D:\УЕБА\Курс 2\ООП\Лабораторная №2\Lab2_Zakshevskij_UTS-22\obj\Debug\Lab2_Zakshevskij_UTS-22.csproj.GenerateResource.cache
+D:\УЕБА\Курс 2\ООП\Лабораторная №2\Lab2_Zakshevskij_UTS-22\obj\Debug\Lab2_Zakshevskij_UTS-22.csproj.CoreCompileInputs.cache
+D:\УЕБА\Курс 2\ООП\Лабораторная №2\Lab2_Zakshevskij_UTS-22\obj\Debug\Lab2_Zakshevskij_UTS-22.exe
+D:\УЕБА\Курс 2\ООП\Лабораторная №2\Lab2_Zakshevskij_UTS-22\obj\Debug\Lab2_Zakshevskij_UTS-22.pdb

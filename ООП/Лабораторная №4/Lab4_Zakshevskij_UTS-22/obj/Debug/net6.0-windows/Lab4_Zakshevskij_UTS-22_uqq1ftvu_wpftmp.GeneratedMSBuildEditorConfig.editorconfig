@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Lab4_Zakshevskij_UTS_22
+build_property.ProjectDir = D:\УЕБА\Курс 2\ООП\Лабораторная №4\Lab4_Zakshevskij_UTS-22\

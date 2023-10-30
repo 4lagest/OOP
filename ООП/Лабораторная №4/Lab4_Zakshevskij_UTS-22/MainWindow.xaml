@@ -1,0 +1,41 @@
+﻿<Window x:Class="Lab4_Zakshevskij_UTS_22.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab4_Zakshevskij_UTS_22"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="30*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBox TextWrapping="Wrap" Grid.ColumnSpan="2" Grid.RowSpan="2" VerticalAlignment="Top"/>
+        <Menu Grid.ColumnSpan="2" Height="27" VerticalAlignment="Top" Grid.RowSpan="2">
+            <MenuItem x:Name="menuBt1" Header="  Файл" Height="24" Width="61">
+                <MenuItem x:Name="menuJsustSave" Header="Сохранить" Click="menuJustSave_Click"/>
+                <MenuItem x:Name="menuSave" Header="Сохранить как" Click="menuSave_Click"/>
+                <MenuItem x:Name="menuOpen" Header="Открыть" Click="menuOpen_Click"/>
+                <MenuItem x:Name="menuCreate" Header="Создать" Click="menuCreate_Click"/>
+            </MenuItem>
+            <MenuItem x:Name="menuBt2" Header="Правка">
+                <MenuItem x:Name="menuUndo" Header="Отменить" Click="MenuUndo_Click"/>
+                <MenuItem x:Name="menuRedo" Header="Повторить" Click="MenuRedo_Click"/>
+            </MenuItem>
+            <MenuItem x:Name="menuAbout" Header="О программе" Click="MenuAbout_Click"/>
+        </Menu>
+
+        <StatusBar x:Name="StBar" Grid.Row="1" Margin="0,0,222,10" Height="32" VerticalAlignment="Bottom">
+            <StatusBar/>
+            <StatusBarItem Background="#FF9A9A9A" Width="172" Margin="0,-2,0,-9" HorizontalAlignment="Center">
+                <TextBox Name="WordCheck" Width="162" Height="33" Background="#FF9A9A98" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="14" FontFamily="Times New Roman"  />
+            </StatusBarItem>
+        </StatusBar>
+        <TextBox x:Name="Tb" Margin="0,13,0,42" Grid.Row="1" TextWrapping="Wrap" Grid.ColumnSpan="2" TextChanged="TbEditor_SelectionChanged" />
+    </Grid>
+</Window>

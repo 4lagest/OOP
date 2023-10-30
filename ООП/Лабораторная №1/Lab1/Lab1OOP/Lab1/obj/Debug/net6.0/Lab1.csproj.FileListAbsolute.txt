@@ -1,0 +1,15 @@
+D:\УЕБА\Курс 2\ООП\Lab1\Lab1OOP\Lab1\bin\Debug\net6.0\Lab1.exe
+D:\УЕБА\Курс 2\ООП\Lab1\Lab1OOP\Lab1\bin\Debug\net6.0\Lab1.deps.json
+D:\УЕБА\Курс 2\ООП\Lab1\Lab1OOP\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+D:\УЕБА\Курс 2\ООП\Lab1\Lab1OOP\Lab1\bin\Debug\net6.0\Lab1.dll
+D:\УЕБА\Курс 2\ООП\Lab1\Lab1OOP\Lab1\bin\Debug\net6.0\ref\Lab1.dll
+D:\УЕБА\Курс 2\ООП\Lab1\Lab1OOP\Lab1\bin\Debug\net6.0\Lab1.pdb
+D:\УЕБА\Курс 2\ООП\Lab1\Lab1OOP\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+D:\УЕБА\Курс 2\ООП\Lab1\Lab1OOP\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЕБА\Курс 2\ООП\Lab1\Lab1OOP\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+D:\УЕБА\Курс 2\ООП\Lab1\Lab1OOP\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+D:\УЕБА\Курс 2\ООП\Lab1\Lab1OOP\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+D:\УЕБА\Курс 2\ООП\Lab1\Lab1OOP\Lab1\obj\Debug\net6.0\Lab1.dll
+D:\УЕБА\Курс 2\ООП\Lab1\Lab1OOP\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+D:\УЕБА\Курс 2\ООП\Lab1\Lab1OOP\Lab1\obj\Debug\net6.0\Lab1.pdb
+D:\УЕБА\Курс 2\ООП\Lab1\Lab1OOP\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4f60d6a8-648c-4e06-9b94-1d4c1399a959": {
+      "ProjectGuid": "4f60d6a8-648c-4e06-9b94-1d4c1399a959",
+      "DisplayName": "Lab3_Zakshevskij_UTS-22",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

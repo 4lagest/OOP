@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5c56dcef-e06f-40c4-8f91-37e210c2d2dd": {
+      "ProjectGuid": "5c56dcef-e06f-40c4-8f91-37e210c2d2dd",
+      "DisplayName": "HomeWork4_Zakshevskij_UTS-22",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
